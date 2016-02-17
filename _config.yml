@@ -1,0 +1,28 @@
+name: Heinrich
+favicon: null
+layout_spectrum: 0.18546451348811388
+typography_spectrum: 0.030362882418558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6323627138044685
+  lightness: 0.02655515936203301
+  saturation: 0.3298277959693223
+  rhythmicContrast: 0.7849870033096522
+purpose: []
